@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **gby1907@gmail.com , https://www.linkedin.com/in/ahmet-sezer-0283b41b5/**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/ahmet-sezer-0283b41b5/ </h3>
 <p align="left">
 </p>
 
