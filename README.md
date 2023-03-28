@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmet Sezer</h1>
-<h3 align="center">A Junior Software Developer living in Istanbul/Turkey</h3>
+<h3 align="center">A Junior Software Developer|Software Testing Specialist living in Istanbul/Turkey</h3>
 
 - 🌱 I’m currently learning **PHP, LARAVEL, UNIT TEST, MVC, NODEJS, MYSQL, POSTGRESQL, MONGODB**
 
