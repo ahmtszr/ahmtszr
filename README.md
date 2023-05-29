@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **PHP, LARAVEL, UNIT TEST, MVC, NODEJS, MYSQL, POSTGRESQL, MONGODB**
 
-- 📫 How to reach me **gby1907@gmail.com , https://www.linkedin.com/in/ahmet-sezer-0283b41b5/**
+- 📫 How to reach me **ahmtszr250117@gmail.com , https://www.linkedin.com/in/ahmet-sezer-0283b41b5/**
 
 <h3 align="left">Connect with me: </h3>
 <p aling="left"> https://www.linkedin.com/in/ahmet-sezer-0283b41b5/ 
